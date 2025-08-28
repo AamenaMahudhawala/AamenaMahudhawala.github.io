@@ -1,0 +1,15 @@
+title: "Aamena Mahudhawala"
+description: "My portfolio – Robotics, Embedded Systems, and AI projects"
+url: "https://aamenamahudhawala.github.io"  # replace with your actual GitHub Pages link
+baseurl: ""  # keep empty for username.github.io
+
+theme: minima  # clean default theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional personalization
+author:
+  name: "Aamena Mahudhawala"
+  email: "amumahudhawala@gmail.com"
+  github: "AamenaMahudhawala"
