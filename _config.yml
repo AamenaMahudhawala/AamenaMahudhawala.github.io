@@ -8,8 +8,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Optional personalization
-author:
-  name: "Aamena Mahudhawala"
-  email: "amumahudhawala@gmail.com"
-  github: "AamenaMahudhawala"
+
