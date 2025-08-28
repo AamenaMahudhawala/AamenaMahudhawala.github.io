@@ -1,4 +1,4 @@
-# Welcome 👋
+# Welcome 
 I'm **Aamena Mahudhawala**, passionate about robotics, electronics, and AI for IoT.  
 Explore my projects, skills, and experiences below.
 
