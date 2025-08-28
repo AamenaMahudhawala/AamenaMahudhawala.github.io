@@ -1,11 +1,10 @@
 title: "Aamena Mahudhawala"
-description: "My portfolio – Robotics, Embedded Systems, and AI projects"
-url: "https://aamenamahudhawala.github.io"  # replace with your actual GitHub Pages link
-baseurl: ""  # keep empty for username.github.io
+description: "Portfolio showcasing projects in Robotics, IoT, and AI"
+theme: minima
 
-theme: minima  # clean default theme
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - projects/index.md
+  - contact.md
